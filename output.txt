@@ -1,0 +1,7909 @@
+Level: 1
+g b g g 
+g g w g 
+g g g g 
+g g g g 
+Level: 2
+g g g g 
+g g g g 
+b g g g 
+g g g g 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Level: 1
+LEFT
+g b g g 
+g H x g 
+g g g g 
+g g g g 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Mario fought a goomba
+Lives: 2
+Coins: 0
+Plays: 0
+Mario LOST
+Level: 1
+RIGHT
+g b g g 
+g x H g 
+g g g g 
+g g g g 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 2
+Coins: 0
+Plays: 1
+Mario LOST
+Level: 1
+UP
+g b g g 
+g x x g 
+g g H g 
+g g g g 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 1
+Mario LOST
+Level: 1
+UP
+g b g g 
+g x x g 
+g g x g 
+g g H g 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 1
+Mario LOST
+Level: 1
+UP
+g b H g 
+g x x g 
+g g x g 
+g g x g 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 1
+Mario LOST
+Level: 1
+RIGHT
+g b x H 
+g x x g 
+g g x g 
+g g x g 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+UP
+g b x x 
+g x x H 
+g g x g 
+g g x g 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+RIGHT
+g b x x 
+H x x x 
+g g x g 
+g g x g 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+DOWN
+H b x x 
+x x x x 
+g g x g 
+g g x g 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+DOWN
+x b x x 
+x x x x 
+g g x g 
+H g x g 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+UP
+H b x x 
+x x x x 
+g g x g 
+x g x g 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+LEFT
+x b x H 
+x x x x 
+g g x g 
+x g x g 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x H 
+g g x g 
+x g x g 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+DOWN
+x b x H 
+x x x x 
+g g x g 
+x g x g 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x H 
+g g x g 
+x g x g 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g g x H 
+x g x g 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+DOWN
+x b x x 
+x x x H 
+g g x x 
+x g x g 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x x H x 
+g g x x 
+x g x g 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g g H x 
+x g x g 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x x x x 
+g H x x 
+x g x g 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 2
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x H x 
+x g x g 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 3
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x x H 
+x g x g 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 4
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g x x x 
+x g x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 4
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x x x 
+H g x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 4
+Mario LOST
+Level: 1
+UP
+H b x x 
+x x x x 
+g x x x 
+x g x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 4
+Mario LOST
+Level: 1
+UP
+x b x x 
+H x x x 
+g x x x 
+x g x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 4
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x H x x 
+g x x x 
+x g x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 5
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+H x x x 
+g x x x 
+x g x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 5
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x H x x 
+g x x x 
+x g x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 6
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x H x 
+g x x x 
+x g x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 7
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x H x x 
+g x x x 
+x g x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 7
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g H x x 
+x g x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 7
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x H x 
+x g x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 8
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g x x x 
+x g H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 8
+Mario LOST
+Level: 1
+DOWN
+x b x x 
+x x x x 
+g x H x 
+x g x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 8
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x x H 
+x g x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 9
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x x x x 
+g x H x 
+x g x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 9
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x x x x 
+g H x x 
+x g x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 9
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x H x 
+x g x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 10
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g x x x 
+x g H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 10
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x x x x 
+g x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 10
+Mario LOST
+Level: 1
+DOWN
+x b x x 
+x x x x 
+g H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 10
+Mario LOST
+Level: 1
+RIGHT
+x b x x 
+x x x x 
+g x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+LEFT
+x b x x 
+x x x x 
+g x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+DOWN
+x b x x 
+x x x x 
+g H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+UP
+x b x x 
+x x x x 
+g x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+g x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Mario fought the level boss
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+g x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 11
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+g x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+g x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+g x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+g x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+g H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Mario fought a goomba
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 12
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 13
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 14
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 14
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 14
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 14
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 15
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 15
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 15
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 15
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 15
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 16
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 16
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 16
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 16
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 16
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 16
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 17
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 17
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 17
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 17
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 17
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 17
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 18
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 18
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 18
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 19
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 20
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 21
+Mario LOST
+Level: 1
+RIGHT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 22
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 22
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 23
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 24
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 24
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 24
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 25
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 25
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 25
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 25
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 25
+Mario LOST
+Level: 1
+RIGHT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 26
+Mario LOST
+Level: 1
+RIGHT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 27
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 27
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 27
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 27
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 28
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 28
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 28
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 28
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 28
+Mario LOST
+Level: 1
+RIGHT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 29
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 29
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 29
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 30
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 30
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 30
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 31
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 31
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 31
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 31
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 31
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 32
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 33
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 33
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 33
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 34
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 34
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 35
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 35
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 36
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 37
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 37
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 37
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 37
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 37
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 38
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 38
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 38
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 39
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 39
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 39
+Mario LOST
+Level: 1
+RIGHT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 40
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 40
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 41
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 42
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 43
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 43
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 44
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 45
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 46
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 46
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 47
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 47
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 48
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 49
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 49
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 49
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 49
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 50
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 50
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 50
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 50
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 50
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 50
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 51
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 51
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 51
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 52
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 52
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 52
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 53
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 54
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 54
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 55
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 55
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 55
+Mario LOST
+Level: 1
+RIGHT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 56
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 56
+Mario LOST
+Level: 1
+RIGHT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 57
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 57
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 57
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 57
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 58
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 59
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 59
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 60
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 61
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 62
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 63
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 63
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 64
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 64
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 64
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 64
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 64
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 65
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 65
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 65
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 65
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 65
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 65
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 66
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 67
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 68
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 68
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 68
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 68
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 68
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 68
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 69
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 69
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 69
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 70
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 70
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 70
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 71
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 71
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 71
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 72
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 73
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 74
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 74
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 74
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 74
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 74
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 74
+Mario LOST
+Level: 1
+RIGHT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 75
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 75
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 75
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 75
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 76
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 77
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 78
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 79
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 79
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 79
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 80
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 80
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 80
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 81
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 81
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 82
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 82
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 82
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 82
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 83
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 84
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 84
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 84
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 84
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 85
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 86
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 87
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 87
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 88
+Mario LOST
+Level: 1
+RIGHT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 89
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 89
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 89
+Mario LOST
+Level: 1
+RIGHT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 90
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 90
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 90
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 90
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 90
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 90
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 91
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 91
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 91
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 92
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 93
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 93
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 93
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 93
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 93
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 93
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 94
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 94
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 94
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 95
+Mario LOST
+Level: 1
+RIGHT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 96
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 96
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 96
+Mario LOST
+Level: 1
+RIGHT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 97
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 98
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 98
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 98
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 98
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 99
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 99
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 99
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 99
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 100
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 100
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 100
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 100
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 101
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 101
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 101
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+UP
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+LEFT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 102
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 103
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 103
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 103
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 103
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 103
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+LEFT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+DOWN
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 104
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 105
+Mario LOST
+Level: 1
+UP
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 105
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 105
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 105
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 105
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 105
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+DOWN
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+H x x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 106
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 107
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x H x 
+Mario is at row 3 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+RIGHT
+H x x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 108
+Mario LOST
+Level: 1
+RIGHT
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 109
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 109
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 109
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x x 
+x x x x 
+x H x x 
+Mario is at row 3 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+H x x x 
+x x x x 
+Mario is at row 2 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x x 
+H x x x 
+Mario is at row 3 and at column 0
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x x x 
+x x x H 
+Mario is at row 3 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+UP
+x x x H 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 110
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 
+Mario is at row 2 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+DOWN
+x x H x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x H x 
+x x x x 
+Mario is at row 2 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x x x 
+x H x x 
+x x x x 
+Mario is at row 2 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+DOWN
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+DOWN
+x H x x 
+x x x x 
+x x x x 
+x x x x 
+Mario is at row 0 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+UP
+x x x x 
+x H x x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 1
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 111
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 112
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 113
+Mario LOST
+Level: 1
+LEFT
+x x x x 
+x x H x 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 2
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 113
+Mario LOST
+Level: 1
+RIGHT
+x x x x 
+x x x H 
+x x x x 
+x x x x 
+Mario is at row 1 and at column 3
+Mario power level is 0
+Position is empty
+Lives: 1
+Coins: 0
+Plays: 114
+Mario LOST
+Level: 1
+UP
+x x x x 
+x x x x 
+x x x H 
+x x x x 

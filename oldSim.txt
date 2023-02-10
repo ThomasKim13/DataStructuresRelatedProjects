@@ -1,0 +1,165 @@
+#include "Simulation.h"
+#include "Level.h"
+#include "Mario.h"
+#include "FileProcessor.h"
+#include "World.h"
+#include <iostream>
+#include <string>
+#include <stdlib.h>
+using namespace std;
+
+Simulation::Simulation(){ //default constructor
+}
+
+Simulation::~Simulation(){ //destructor
+}
+
+void Simulation::createSimulation() {
+    srand(time(NULL));
+    FileProcessor f;
+    f.levelMaker("input.txt");
+    int levelNumber = f.getNumLevel();
+    int size = f.getDimensionGrid();
+    int health = f.getInitialLives();
+    int power = 0;
+    int coins = 0;
+
+    Mario m(health, power, coins);
+
+    World *world = new World(levelNumber);
+    char ***simWorld = world->createWorld();
+
+    int marioRow;
+    int marioColumn;
+    for (int row = 0; row < size; row++) {
+        for (int column = 0; column < size; column++) {
+            if (simWorld[0][row][column] == 'H') {
+                marioRow = row;
+                marioColumn = column;
+
+            }
+        }
+    }
+
+    for (int i = 0; i < 5; i++) {
+        int oldRow = marioColumn;
+        int oldColumn = marioColumn;
+        simWorld[0][marioRow][marioColumn] = 'x';
+        int move = m.Movement();
+
+        cout << move << endl;
+        if(move == 0){
+            if(marioRow == size - 1){
+                marioRow = 0;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+            else{
+                marioRow += 1;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+
+            }
+        }
+        if (move == 1){
+            if(marioRow == 0){
+                marioRow = size - 1;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+            else{
+                marioRow -= 1;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+        }
+        if(move == 2){
+            if(marioColumn == 0){
+                marioColumn = size -1;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+            else{
+                marioColumn -= 1;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+        }
+        if(move == 3){
+            if(marioColumn == size - 1){
+                marioColumn = 0;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+            else{
+                marioColumn += 1;
+                simWorld[0][marioRow][marioColumn] = 'H';
+                if(simWorld[0][oldRow][oldColumn] == 'c'){
+                    m.CoinInteraction();
+                }
+            }
+        }
+//        switch (move){
+//            case 0:
+//                if (marioRow == (size - 1)){
+//                    marioRow = 0;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//                else{
+//                    marioRow += 1;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//            case 1:
+//                if (marioRow == 0){
+//                    marioRow = size - 1;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//                else{
+//                    marioRow -= 1;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//            case 2:
+//                if (marioColumn == size - 1){
+//                    marioColumn = 0;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//                else{
+//                    marioColumn += 1;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//            case 3:
+//                if (marioColumn == 0){
+//                    marioColumn = size - 1;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//                else{
+//                    marioColumn -= 1;
+//                    simWorld[0][marioRow][marioColumn] = 'H';
+//                }
+//        }
+
+        for (int ia = 0; ia < size; ia++) {
+            for (int j = 0; j < size; j++) {
+                cout << simWorld[0][ia][j] << " ";
+            }
+            cout << endl;
+        }
+        cout << "Coins: " << m.getCoins() << endl;
+
+
+    }
+}
